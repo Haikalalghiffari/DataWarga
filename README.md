@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>DataWarga</strong> — Sistem manajemen data warga (RT / RW)
-</p>
+  <strong>DataWarga</strong> — Sistem manajemen data warga (RT / RW) Haikal Dan Pian
+</p> 
 
 ---
 
