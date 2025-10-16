@@ -35,54 +35,53 @@ Aplikasi ini dibuat menggunakan **Visual Studio Code** dengan tampilan modern be
 ## ⚙️ Instalasi
 
 1. Clone repositori:
-   ```bash
+   
    git clone https://github.com/Haikalalghiffari/DataWarga.git
    cd DataWarga
-````
 
 2. Install dependensi Laravel:
 
-   ```bash
+   
    composer install
-   ```
+   
 
 3. Duplikat file `.env.example` menjadi `.env`:
 
-   ```bash
+   
    cp .env.example .env
-   ```
+   
 
 4. Generate key aplikasi:
 
-   ```bash
+  
    php artisan key:generate
-   ```
+  
 
 5. Konfigurasi database di file `.env`:
 
-   ```
+   
    DB_DATABASE=datawarga
    DB_USERNAME=root
    DB_PASSWORD=
-   ```
+  
 
 6. Jalankan migrasi:
 
-   ```bash
+   
    php artisan migrate
-   ```
+  
 
 7. Jalankan server:
 
-   ```bash
+  
    php artisan serve
-   ```
+   
 
 8. Buka di browser:
 
-   ```
+  
    http://127.0.0.1:8000
-   ```
+   
 
 ---
 
@@ -236,6 +235,6 @@ Silakan lihat file [LICENSE](./LICENSE) untuk detail lebih lanjut.
 ---
 
 <p align="center">
-  <sub>Made with ❤️ using Laravel & Visual Studio Code</sub>
+  <sub>Made by Haikal & Octavian
 </p>
 
