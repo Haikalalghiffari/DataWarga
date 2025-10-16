@@ -1,9 +1,5 @@
-Siap 🔥 Berikut **kode lengkap README.md final** untuk proyek **DataWarga** — sudah termasuk semua bagian profesional seperti deskripsi, instalasi, fitur, tampilan aplikasi (dengan semua screenshot kamu), kontribusi, lisensi, dan kontak.
-Kamu bisa langsung **copy dan paste** seluruh isi ini ke file `README.md` di GitHub-mu.
 
----
 
-````md
 <p align="center">
   <a href="#">
     <img src="https://raw.githubusercontent.com/Haikalalghiffari/DataWarga/main/public/uploads/warga/login.png" width="400" alt="DataWarga Logo">
