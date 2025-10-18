@@ -23,10 +23,10 @@ Dalam kehidupan bermasyarakat, lingkungan Rukun Tetangga (RT) dan Rukun Warga (R
 Melihat permasalahan tersebut, dibutuhkan suatu sistem berbasis digital yang dapat membantu pengurus RT/RW dalam mengelola data warga secara terstruktur, cepat, dan mudah diakses.
 Oleh karena itu, dibuatlah Aplikasi Manajemen RT-RW berbasis web menggunakan Laravel Framework yang berfungsi untuk mendigitalisasi proses administrasi warga.
 Aplikasi ini dirancang untuk:
-•	Menyimpan dan menampilkan data warga dan rumah secara terpusat.
-•	Memudahkan pengurus RT/RW dalam menambahkan, mengubah, dan menghapus data tanpa harus melakukan pencatatan manual.
-•	Menyediakan fitur pencarian dan laporan agar proses pengambilan data lebih cepat dan efisien.
-•	Memberikan akses login untuk keamanan data agar hanya pengguna terdaftar yang dapat mengelola sistem.
+1.  Menyimpan dan menampilkan data warga dan rumah secara terpusat.
+2.  Memudahkan pengurus RT/RW dalam menambahkan, mengubah, dan menghapus data tanpa harus melakukan pencatatan manual.
+3.  Menyediakan fitur pencarian dan laporan agar proses pengambilan data lebih cepat dan efisien.
+4.  Memberikan akses login untuk keamanan data agar hanya pengguna terdaftar yang dapat mengelola sistem.
 Dengan adanya aplikasi ini, diharapkan kegiatan administrasi di tingkat RT dan RW menjadi lebih modern, efisien, dan transparan, sekaligus membantu pengurus dalam memberikan pelayanan yang lebih baik kepada warga. 
 
 ---
