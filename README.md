@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/Haikalalghiffari/DataWarga/actions"><img src="https://img.shields.io/badge/Laravel-Framework-red" alt="Laravel"></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-8.0-blue" alt="PHP Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
 </p>
 
 ---
