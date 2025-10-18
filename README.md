@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/Haikalalghiffari/DataWarga/main/public/uploads/warga/login.png" width="400" alt="DataWarga Logo">
+    <img src="https://raw.githubusercontent.com/Haikalalghiffari/DataWarga/main/public/uploads/warga/rt-rw.jpg" width="400" alt="DataWarga Logo">
   </a>
 </p>
 
